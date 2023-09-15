@@ -1,0 +1,12 @@
+p, span{
+    font-weight: 600;
+}
+.buttons{
+    float: right;
+}
+.amount{
+    display: inline-block;
+}
+.credit{
+    width:45%;
+}
